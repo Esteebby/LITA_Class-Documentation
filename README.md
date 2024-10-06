@@ -21,7 +21,7 @@ The primary source of Data files are gotten from some online tutorials such as Y
 
 ## Tool Used 
 ---
-- Microsoft Excel [Download Here].(https://www.Mircrosoft.com).
+- Microsoft Excel [Download Here]_(https://www.Mircrosoft.com).
  1. For Data Cleaning
  2. For Data Analysis
  3. For Creating a pivot table
@@ -30,7 +30,7 @@ The primary source of Data files are gotten from some online tutorials such as Y
 - SQL-Stuctured Query Language 
 It is used for querying of Data and we have the SQL Commands and SQL Keys.
 
-- GitHub [Download Here].(https://www.github.com).
+- GitHub [Download Here]_(https://www.github.com).
 It is used for Porfolio building.
 
 - Power BI
@@ -59,4 +59,5 @@ SELECT * FROM TABLE1
 WHERE TABLE1 IS A SALARY TABLE
 ```
 
- Basic Execl functions
+ Basic Execl Functions 
+![WhatsApp Image 2024-10-07 at 00 05 08_45abec62](https://github.com/user-attachments/assets/d486961e-b812-499d-988f-7d0de21b996b)
