@@ -63,5 +63,7 @@ WHERE TABLE1 IS A SALARY TABLE
 ![WhatsApp Image 2024-10-07 at 00 05 08_45abec62](https://github.com/user-attachments/assets/d486961e-b812-499d-988f-7d0de21b996b)
 
 - SQL data query
-
 ![WhatsApp Image 2024-10-07 at 00 05 08_ad49a978](https://github.com/user-attachments/assets/fd86cdef-e6f5-402e-84f4-ab1520b7fb10)
+
+## Data Visualization 
+- Created a Chart to visualiza the salaes 
