@@ -21,20 +21,18 @@ The primary source of Data files are gotten from some online tutorials such as Y
 
 ## Tool Used 
 ---
-- Microsoft Excel [Download Here]-(https://www.Mircrosoft.com).
- 1. For Data Cleaning
- 2. For Data Analysis
- 3. For Creating a pivot table
- 4. For Data Visualization
+- Microsoft Excel [Download Here](https://www.Microsoft.com)
+    1. For Data Cleaning
+    2. For Data Analysis
+    3. For Creating a pivot table
+    4. For Data Visualization
 
 - SQL-Stuctured Query Language 
-It is used for querying of Data and we have the SQL Commands and SQL Keys.
-
-- GitHub [Download Here]-(https://www.github.com).
-It is used for Porfolio building.
-
+  It is used for querying of Data and we have the SQL Commands and SQL Keys.
+- GitHub [Download Here](https://github.com)
+  It is used for Porfolio building.
 - Power BI
-It is used for Data Visualization and BI reports.
+  It is used for Data Visualization and BI reports.
 
 ## Data Cleaning and Preparation
 ---
@@ -66,4 +64,7 @@ WHERE TABLE1 IS A SALARY TABLE
 ![WhatsApp Image 2024-10-07 at 00 05 08_ad49a978](https://github.com/user-attachments/assets/fd86cdef-e6f5-402e-84f4-ab1520b7fb10)
 
 ## Data Visualization 
-- Created a Chart to visualiza the salaes 
+- Created a Chart to visualiza the salaes
+
+![WhatsApp Image 2024-10-07 at 00 37 06_073335af](https://github.com/user-attachments/assets/b6318577-dc39-41af-9e03-abcf073215d1)
+
