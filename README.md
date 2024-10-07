@@ -4,12 +4,17 @@ I'm currently undergoing a training in Data Analysis with the Incubator Hub. Thi
 
 ## PROJECT TITLE: Data Analysis Process
 ---
-Project Overview  
-Data Analysis Sources 
-Tools Used
-Data Cleaning and Preparation
-Data Analysis
-Data Visualization 
+[Project Overview](#project-overview)  
+
+[Data Analysis Sources](#data-analysis-sources) 
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization) 
 
 ## Project Overview 
 ---
@@ -19,7 +24,7 @@ This Project is to talk about my journey in Data Analysis with LITA, starting fr
 ---
 The primary source of Data files are gotten from some online tutorials such as Youtube, Linkedin and other CSV files that are downloaded from Kaggle. 
 
-## Tool Used 
+## Tools Used 
 ---
 - Microsoft Excel [Download Here](https://www.Microsoft.com)
     1. For Data Cleaning
@@ -54,6 +59,7 @@ Here we included some basic lines of code or queries, and functions used during 
 
 ``` SQL
 SELECT * FROM TABLE1
+
 WHERE TABLE1 IS A SALARY TABLE
 ```
 
@@ -67,4 +73,9 @@ WHERE TABLE1 IS A SALARY TABLE
 - Created a Chart to visualiza the salaes
 
 ![WhatsApp Image 2024-10-07 at 00 37 06_073335af](https://github.com/user-attachments/assets/b6318577-dc39-41af-9e03-abcf073215d1)
+
+|Name:|Idemudia |Esther |
+|-----|---------|-------|
+|Techskill: |Data | Analyst|
+💻💻
 
